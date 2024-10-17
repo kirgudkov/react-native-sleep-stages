@@ -1,5 +1,5 @@
 {
-  "name": "hypnogram",
+  "name": "react-native-sleep-stages",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,8 +10,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-masked-view/masked-view": "https://github.com/react-native-masked-view/masked-view/archive/edee2e76a3ead5135d8328ec5c5073415e4c9dbe.tar.gz",
     "react": "18.3.1",
-    "react-native": "0.75.4"
+    "react-native": "0.75.4",
+    "react-native-gesture-handler": "2.20.0",
+    "react-native-reanimated": "3.15.5",
+    "react-native-svg": "15.7.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
