@@ -1,8 +1,8 @@
 # React Native Sleep Stages chart
 
-An example of iOS Health App sleep stages chart (hypnogram) implemented using React Native
+An example of iOS Health app sleep stages chart (hypnogram) implemented using React Native
 
-| <video src="https://github.com/user-attachments/assets/8565b01b-d50e-4749-a996-87f7dbed0101"> | <video src="https://github.com/user-attachments/assets/bd5f0d17-2e1b-4ffa-9eed-0da0f938354e"> |
+| <img width="325" src="https://github.com/user-attachments/assets/b34f2a10-0eb3-4655-bc26-0c6ccf96a0ae"> | <video src="https://github.com/user-attachments/assets/5a74cc0e-6af7-4208-8337-7d62c56fc14d"> |
 |---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 
 Uses:
